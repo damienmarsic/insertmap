@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+insertmap.egg-info/PKG-INFO
+insertmap.egg-info/SOURCES.txt
+insertmap.egg-info/dependency_links.txt
+insertmap.egg-info/top_level.txt
