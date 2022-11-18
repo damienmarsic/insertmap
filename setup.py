@@ -3,7 +3,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 setuptools.setup(
     name="insertmap", # Replace with your own username
-    version="0.1.5",
+    version="0.1.20",
     author="Damien Marsic",
     author_email="damien.marsic@aliyun.com",
     description="Map insertion sites to viral or microbial genome from wgs or lam-pcr data",
